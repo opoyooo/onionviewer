@@ -1,0 +1,4 @@
+D:\Data\sources\2010\OnionViewer\CAOVi\bin\Debug\CAOVi.exe
+D:\Data\sources\2010\OnionViewer\CAOVi\bin\Debug\CAOVi.pdb
+D:\Data\sources\2010\OnionViewer\CAOVi\obj\x86\Debug\CAOVi.exe
+D:\Data\sources\2010\OnionViewer\CAOVi\obj\x86\Debug\CAOVi.pdb
